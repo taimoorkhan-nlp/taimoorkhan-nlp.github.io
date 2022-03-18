@@ -1,2 +1,2 @@
-# taimoorkhan.github.io
+# taimoorkhan-nlp.github.io
 my personal website
