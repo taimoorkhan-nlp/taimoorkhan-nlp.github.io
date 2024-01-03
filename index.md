@@ -1,5 +1,5 @@
 - Home.md
-- Education.md
+- [Education](Education.md)
 - Experience.md
 - Publications.md
 - Projects.md
