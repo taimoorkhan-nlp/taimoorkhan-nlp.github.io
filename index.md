@@ -1,9 +1,9 @@
-- Home.md
+[Home](Home.md)
 [Education](Education.md)
-- Experience.md
-- Publications.md
-- Projects.md
-
+[Experience](Experience.md)
+[Publications](Publications.md)
+[Projects](Projects.md)
+[About](about.md)
 ---
 layout: default
 ---
