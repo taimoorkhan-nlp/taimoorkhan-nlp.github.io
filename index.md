@@ -8,8 +8,6 @@
 layout: home
 ---
 
-# Bio
-![Taimoor Khan](https://github.com/taimoorkhan-nlp/taimoorkhan-nlp.github.io/blob/main/Taimoor.jpg)
 Hi, I am a computer scientists working as senior researcher at GESIS - Leibniz-Institut für Sozialwissenschaften, Germany. Here, we attempt to align our services and research to benefit from one another. In services we contribute to the existing projects through strategy development, planning, implementation and at times management. My research interests are Natural Language Processing (NLP), Machine Learning (ML) and BigData Engineering. I am also looking after the Hadoop/Spark cluster at the organization to assist in BigData research requiring distributed storage and processing.
 
 I did Ph.D. in Computer Scinece from Bahria University Islamabad, Pakistan in 2018. My thesis title was "Lifelong machine learning topic modeling for large-scale aspect extraction". My Master's degree is in Information Technology from Swinburne University, Australia, in 2010. I did Bachelor's in Computer and Information Sciences from PIEAS, Pakistan, in 2007. My undergrad thesis title was "A comparative analysis of sequential and parallel sparse storage formats". In addition, I did multiple online certifications in Data Science.
