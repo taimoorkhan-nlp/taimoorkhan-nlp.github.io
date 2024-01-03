@@ -9,14 +9,15 @@ title: Taimoor Khan
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Hi, I am Taimoor Khan, I am a PhD in Computer Science. My research interests are natural language processing, 
-  machine leanring, LLMs and Bigdata engineering. I am a senior researcher in Big data analytics team, Knowledge technologies 
-  for social sciences (KTS) department at GESIS Leibniz institut for social sciences.
+  Senior researcher
+  Big Data Analytics team
+  Knowledge Technologies in Social Sciences Dept.
+  GESIS, Köln.
 
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
-theme: minimal
+theme: minima
 
 # As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
 # If you want to use the latest Minima version on GitHub Pages, use the following setting and 
