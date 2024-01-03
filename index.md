@@ -1,11 +1,12 @@
----
-layout: default
----
 - Home.md
 - Education.md
 - Experience.md
 - Publications.md
 - Projects.md
+
+---
+layout: default
+---
   
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
