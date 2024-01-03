@@ -1,7 +1,12 @@
 ---
 layout: default
 ---
-
+- Home.md
+- Education.md
+- Experience.md
+- Publications.md
+- Projects.md
+  
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
