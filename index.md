@@ -1,13 +1,25 @@
-[Home](Home.md)
-[Education](Education.md)
-[Experience](Experience.md)
-[Publications](Publications.md)
-[Projects](Projects.md)
-[About](about.md)
 ---
 layout: default
 ---
   
+# Bio
+I am Taimoor Khan, serving as senior researcher (BigData Analytics team) at Knowledge technologies for Social Sciences (KTS) Dept, GESIS, Germany. My responsibilities 
+include contribution to research projects strategically, managerially and in development. I also play my role in pushing research boundaries in my areas of interest and 
+supervise students aligned with it. In specific I contribute to Natural language processing (NLP), Machine learning (ML) and BigData analytics. 
+
+# Experience
+* Senior Researcher in BigData Analytics team, at Knowledge technologies for Social Science (KTS) Dept., GESIS, Germany (Oct 2022 - present)
+* Assistnt Professor (Computer Science) at National University of Computer and Emerging Sciences (NUCES), Pakistan (Aug 2014 - Aug 2022)
+* Lecturer (Computer Science) at COMSATS University, Pakistan (Dec 2011 - Jun 2014)
+* Software Developer, various contractual positions in Pakistan & Australia from 2007 to 2011.
+
+# Education
+* Ph.D. (Computer Science) Thesis: Lifelong machine learning topic modeling for large-scale aspect extraction, Bahria University, Pakistan 2018. 
+* M.S. (Information Technology) Swinburne University, Australia 2010.
+* B.S. (Computer and Information Sciences) Thesis: A comparative analysis of sequential and parallel sparse storage formats, PIEAS, Pakistan 2007.
+
+# Projects
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
