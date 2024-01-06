@@ -12,7 +12,7 @@
 
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "air" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # Site Settings
@@ -108,7 +108,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Taimoor Khan"
+  name             : ""تيمور خان ټکر""
   avatar           : "Taimoor.jpg"
   bio              : 
   location         : #"City (Country)"
