@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "My Profile"
+title: "My Profile (تيمور خان ټکر)"
 ---  
 <p>I am Taimoor Khan senior researcher at GESIS, Germany. My research interests are Natural language processing (NLP), Machine learning (ML) and BigData analytics.</p> 
 
