@@ -21,7 +21,7 @@ title                    : "Taimoor Khan, Ph.D. | Senior Researcher (NLP, ML & B
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Taimoor Khan"
-description              : ""
+description              : "A computer scientists, data engineer and computational linguist"
 url                      : "https://taimoorkhan-nlp.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://taimoorkhan-nlp.github.io"
