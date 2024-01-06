@@ -1,7 +1,8 @@
 ---
-layout: default
----
-  
+layout: single
+author_profile: true
+title: ""
+---  
 I am Taimoor Khan senior researcher at GESIS, Germany. My research interests are Natural language processing (NLP), Machine learning (ML) and BigData analytics. 
 
 # Experience
