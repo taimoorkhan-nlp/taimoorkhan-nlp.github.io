@@ -4,3 +4,19 @@ description: Senior Researcher (NLP, ML & BigData)
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+  - Home: "home.md"
+  - Projects: "projects.md"
+  - Research: "research.md"
+
+around-avatar: true
+
+social-network-links:
+  email: "taimoor[dot]nlp[at]gmail.com"
+  facebook: https://www.facebook.com/taimoor3/
+  linkedin: https://www.linkedin.com/in/taimoor-khan-747b5610/
+  ORCID: https://orcid.org/0000-0002-6542-9217
+  google-scholar: https://scholar.google.com/citations?user=cCOnJ1sAAAAJ&hl=en
