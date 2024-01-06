@@ -12,7 +12,7 @@
 
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "neon" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # Site Settings
@@ -26,7 +26,7 @@ url                      : "https://taimoorkhan-nlp.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://danilo-dessi.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "Taimoor.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : #"Taimoor.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -42,7 +42,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : "dark" # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark" # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
@@ -75,11 +75,11 @@ algolia:
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : "008329265550390950180:tke7v3akd_o" # YOUR_SEARCH_ENGINE_ID
+  search_engine_id       : "" # YOUR_SEARCH_ENGINE_ID
   instant_search         : false # false (default), true
 # SEO Related
-google_site_verification : "_jJONKzq3pQMdpU4VFb17P3H8lB2-DuO73UwR7BaXt0"
-bing_site_verification   : "1DE19900A936B8CBA0E115B9A70947D1"
+google_site_verification : ""
+bing_site_verification   : ""
 yandex_site_verification :
 naver_site_verification  :
 
