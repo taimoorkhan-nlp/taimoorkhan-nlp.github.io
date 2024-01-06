@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "mint" # "default" "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en"
-title                    : "Taimoor Khan, Ph.D."
+title                    : "Taimoor Khan, Ph.D. | تيمور خان ټکر"
 title_separator          : "-"
 subtitle                 : "Senior Researcher (NLP, ML & BigData)" # site tagline that appears below site title in masthead
 name                     : "تيمور خان ټکر"
@@ -108,7 +108,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""تيمور خان ټکر""
+  name             : "تيمور خان ټکر"
   avatar           : "Taimoor.jpg"
   bio              : 
   location         : #"City (Country)"
