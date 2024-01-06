@@ -20,7 +20,7 @@ locale                   : "en"
 title                    : "Taimoor Khan, Ph.D. | Senior Researcher (NLP, ML & BigData)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Taimoor Khan"
+name                     : "تيمور خان ټکر"
 description              : "A computer scientists, data engineer and computational linguist"
 url                      : "https://taimoorkhan-nlp.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
