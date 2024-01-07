@@ -1,4 +1,4 @@
-[CV](cv.md "CV")
+                                                  [CV](cv.md "CV")  |   [Projects](projects.md)  |  [Research](research.md)
 ----
 ## About
 
