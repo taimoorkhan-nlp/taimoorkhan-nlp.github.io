@@ -1,5 +1,5 @@
-# Taimoor Khan
-
+[CV](cv.md "CV")
+----
 ## About
 
 Hi, I'm Taimoor Khan, senior researcher (Big Data Analytics team), Knowledge technologies for social sciences (KTS) dept., GESIS (Germany). 
@@ -15,7 +15,5 @@ Software developer contractual jobs both in Pakistan and Australia. I did M.S. (
 2010 and B.S. (Computer and Information Sciences) from PIEAS, Pakistan in 2007.
 
 
-## Links
-- [CV](cv.md "CV")
 
 
