@@ -1,9 +1,9 @@
 ---
 layout: single
 author_profile: true
-title: "My Profile (تيمور خان ټکر)"
+title: "My Profile"
 ---  
-<p>I am Taimoor Khan senior researcher at GESIS, Germany. My research interests are Natural language processing (NLP), Machine learning (ML) and BigData analytics.</p> 
+I am Taimoor Khan senior researcher at GESIS, Germany. My research interests are Natural language processing (NLP), Machine learning (ML) and BigData analytics. 
 
 ### Experience:
   Senior Researcher in BigData Analytics team, at Knowledge technologies for Social Science (KTS) Dept., GESIS, Germany (Oct 2022 - present)
