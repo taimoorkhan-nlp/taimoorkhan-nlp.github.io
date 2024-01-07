@@ -1,5 +1,5 @@
-                                                  [CV](cv.md "CV")  |   [Projects](projects.md)  |  [Research](research.md)
-----
+[CV](cv.md "CV")  |   [Projects](projects.md)  |  [Research](research.md)
+---
 ## About
 
 Hi, I'm Taimoor Khan, senior researcher (Big Data Analytics team), Knowledge technologies for social sciences (KTS) dept., GESIS (Germany). 
