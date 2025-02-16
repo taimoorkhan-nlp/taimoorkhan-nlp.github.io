@@ -14,7 +14,7 @@ Before joining GESIS in 2022, I worked for 11 years in academia, starting as a L
 
 Highlights
 ======
-- Supervisor and lead developer in establishing GESIS first in-house Big Data Hadoop infrastructure. Managing, developing and curating research procedures for Digital behavioral data analysis, 2022-10 - 2024-06.
+- <strong>Lead developer</strong> in establishing GESIS first in-house Big Data Hadoop infrastructure. Storing, managing and analyzing Digital behavioral data from digital platforms, <em>2022-10 - 2024-06</em>.
 - Project Lead/Service Manager (dept), assisting with reporting, managing and supervision responsibilities (a team of 6 people) 2024-08 - present
 - Contributed to EU TIER2 project, representing GESIS as partner institute 2023-06 - 2024-03
 - Supervised more than 20 BS/MS thesis including pre-doctoral \textbf{Voluntary Mentorships} at (\href{https://airtable.com/shr99BCZFvYUgjCB8/tblEHHtuMGBXHqVc4}{\myuline {FAPFP}}), \textit{2014 - 2024}
