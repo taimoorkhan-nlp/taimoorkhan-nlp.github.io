@@ -7,13 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi, I’m M. Taimoor Khan, senior researcher (Big Data Analytics team), Knowledge technologies for social sciences (KTS) dept., GESIS (Germany).
+My research interests are Natural language processing, Machine learning and Big data engineering. As a senior researcher at GESIS, I pursue my research interests and contribute to the services in capacity of strategy building, designing, management and development. I did Ph.D. in Computer Science from Bahria University, Pakistan in 2018. My Ph.D. thesis title was “Lifelong machine learning topic modeling for large-scale aspect extraction”. I earned multiple merit awards, travel grants and was awarded Student researcher of the year in 2016.
+Before joining GESIS in 2022, I worked for 11 years in academia, starting as a Lecturer at COMSATS University, Pakistan in 2011. In 2014, I joined National University of Computer and Emerging Sciences, Pakistan as an Assistant Professor. In the 2007 - 2011 period, Performed various Software developer contractual jobs both in Pakistan and Australia. I did M.S. (Information Technology) from Swinburne University, Australia in 2010 and B.S. (Computer and Information Sciences) from PIEAS, Pakistan in 2007."
 
-A data-driven personal website
+
+Highlights
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- Supervisor and lead developer in establishing GESIS first \textbf{in-house Big Data Hadoop infrastructure}. Managing, developing and curating research procedures for Digital behavioral data analysis, \textit{2022-10 - 2024-06}
+- \textbf{Managing a team of 6 people}  Project Lead/Service Manager, assisting with reporting, managing and supervision responsibilities \textit{2024-08 - present}
+- Contributed to \textbf{\href{https://tier2-project.eu/}{\myuline{TIER2, EU Horizon project}}}, representing GESIS as partner institute \textit{2023-06 - 2024-03}
+- \textbf{Supervised} more than 20 BS/MS thesis including pre-doctoral \textbf{Voluntary Mentorships} at (\href{https://airtable.com/shr99BCZFvYUgjCB8/tblEHHtuMGBXHqVc4}{\myuline {FAPFP}}), \textit{2014 - 2024}
+- \textbf{Focal person} in MoU with Pashto academy, to support with \textbf{low-resourced language tools}, \textit{2020 - 2022}
+- Earned multiple \textbf{HEC Pakistan Grants}, along with institutional scholarships and awards
+- \href{https://www.udemy.com/user/muhammad-taimoor-khan/}{\myuline {\textbf{Online courses}}} on text mining, sentiment analysis and data cleaning, with 2000+ students from 150+ countries.
+- Reviewer at prestigious journals and conferences including Elsevier journals  \textbf{(\href{https://www.journals.elsevier.com/knowledge-based-systems}{\myuline {KBS}})} and \textbf{(\href{https://www.journals.elsevier.com/reliability-engineering-and-system-safety}{\myuline {RE&SS}})}
+- \textbf{Earned student Researcher of the year} at Bahria University Islamabad, Pakisan, \textit{2016}
 
 Getting started
 ======
