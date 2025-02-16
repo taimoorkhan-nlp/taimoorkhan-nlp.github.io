@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "“If we knew what we were doing it wouldn’t be research.” – Albert Einstein"
 author_profile: true
 redirect_from: 
   - /about/
