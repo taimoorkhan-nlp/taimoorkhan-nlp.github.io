@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "“If we knew what we were doing it wouldn’t be research.” – Albert Einstein"
+title: Short Bio
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,10 +14,10 @@ Before joining GESIS in 2022, I worked for 11 years in academia, starting as a L
 
 Highlights
 ======
-- Supervisor and lead developer in establishing GESIS first \textbf{in-house Big Data Hadoop infrastructure}. Managing, developing and curating research procedures for Digital behavioral data analysis, \textit{2022-10 - 2024-06}
-- \textbf{Managing a team of 6 people}  Project Lead/Service Manager, assisting with reporting, managing and supervision responsibilities \textit{2024-08 - present}
-- Contributed to \textbf{\href{https://tier2-project.eu/}{\myuline{TIER2, EU Horizon project}}}, representing GESIS as partner institute \textit{2023-06 - 2024-03}
-- \textbf{Supervised} more than 20 BS/MS thesis including pre-doctoral \textbf{Voluntary Mentorships} at (\href{https://airtable.com/shr99BCZFvYUgjCB8/tblEHHtuMGBXHqVc4}{\myuline {FAPFP}}), \textit{2014 - 2024}
+- Supervisor and lead developer in establishing GESIS first in-house Big Data Hadoop infrastructure. Managing, developing and curating research procedures for Digital behavioral data analysis, 2022-10 - 2024-06.
+- Project Lead/Service Manager (dept), assisting with reporting, managing and supervision responsibilities (a team of 6 people) 2024-08 - present
+- Contributed to EU TIER2 project, representing GESIS as partner institute 2023-06 - 2024-03
+- Supervised more than 20 BS/MS thesis including pre-doctoral \textbf{Voluntary Mentorships} at (\href{https://airtable.com/shr99BCZFvYUgjCB8/tblEHHtuMGBXHqVc4}{\myuline {FAPFP}}), \textit{2014 - 2024}
 - \textbf{Focal person} in MoU with Pashto academy, to support with \textbf{low-resourced language tools}, \textit{2020 - 2022}
 - Earned multiple \textbf{HEC Pakistan Grants}, along with institutional scholarships and awards
 - \href{https://www.udemy.com/user/muhammad-taimoor-khan/}{\myuline {\textbf{Online courses}}} on text mining, sentiment analysis and data cleaning, with 2000+ students from 150+ countries.
