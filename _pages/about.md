@@ -15,13 +15,13 @@ Before joining GESIS in 2022, I worked for 11 years in academia, starting as a L
 Highlights
 ======
 - <strong>Lead developer</strong> in establishing GESIS first in-house Big Data Hadoop infrastructure. Storing, managing and analyzing Digital behavioral data from digital platforms, <em>2022-10 - 2024-06</em>.
-- Project Lead/Service Manager (dept), assisting with reporting, managing and supervision responsibilities (a team of 6 people) 2024-08 - present
-- Contributed to EU TIER2 project, representing GESIS as partner institute 2023-06 - 2024-03
-- Supervised more than 20 BS/MS thesis including pre-doctoral \textbf{Voluntary Mentorships} at (\href{https://airtable.com/shr99BCZFvYUgjCB8/tblEHHtuMGBXHqVc4}{\myuline {FAPFP}}), \textit{2014 - 2024}
-- \textbf{Focal person} in MoU with Pashto academy, to support with \textbf{low-resourced language tools}, \textit{2020 - 2022}
-- Earned multiple \textbf{HEC Pakistan Grants}, along with institutional scholarships and awards
-- \href{https://www.udemy.com/user/muhammad-taimoor-khan/}{\myuline {\textbf{Online courses}}} on text mining, sentiment analysis and data cleaning, with 2000+ students from 150+ countries.
-- Reviewer at prestigious journals and conferences including Elsevier journals  \textbf{(\href{https://www.journals.elsevier.com/knowledge-based-systems}{\myuline {KBS}})} and \textbf{(\href{https://www.journals.elsevier.com/reliability-engineering-and-system-safety}{\myuline {RE&SS}})}
+- <strong>Project Lead/Service Manager (dept)</strong>, assisting with reporting, managing and supervision responsibilities (a team of 6 people), <em>2024-08 - present</em>.
+- <strong>Contributed to EU TIER2 project</strong>, representing GESIS as partner institute, <em>2023-06 - 2024-03</em>.
+- <strong>Supervised</strong> more than 20 BS/MS thesis including pre-doctoral, Voluntary Mentorships at <a href="\href{https://airtable.com/shr99BCZFvYUgjCB8/tblEHHtuMGBXHqVc4">FAPFP</a>, <em>2014 - 2024</em>.
+- <strong>Focal person</strong> in MoU with Pashto academy, to provide digital support on low-resourced language tools, <em>2020 - 2022</em>.
+- Earned multiple <strong>Higher education grants</strong>, along with institutional scholarships and fee concessions.
+- <a href="https://www.udemy.com/user/muhammad-taimoor-khan/">Online courses</a> on text mining, sentiment analysis and data cleaning, with 2000+ students from 150+ countries.
+- Reviewer at prestigious journals and conferences including Elsevier journals  
 - \textbf{Earned student Researcher of the year} at Bahria University Islamabad, Pakisan, \textit{2016}
 
 Getting started
