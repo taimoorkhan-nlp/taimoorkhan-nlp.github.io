@@ -25,7 +25,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "khantr_LThumb.jpg"
+  avatar           : "khantr.png"
   name             : "M. Taimoor Khan"
   pronouns         : "(he/him)"  
   bio              : "Senior researcher interested in machine learning and natural language processing"
