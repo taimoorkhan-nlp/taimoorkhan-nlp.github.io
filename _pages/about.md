@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m M. Taimoor Khan, senior researcher (Big Data Analytics team), Knowledge technologies for social sciences (KTS) dept., GESIS (Germany).
-My research interests are Natural language processing, Machine learning and Big data engineering. As a senior researcher at GESIS, I pursue my research interests and contribute to the services in capacity of strategy building, designing, management and development. I did Ph.D. in Computer Science from Bahria University, Pakistan in 2018. My Ph.D. thesis title was “Lifelong machine learning topic modeling for large-scale aspect extraction”. I earned multiple merit awards, travel grants and was awarded Student researcher of the year in 2016.
-Before joining GESIS in 2022, I worked for 11 years in academia, starting as a Lecturer at COMSATS University, Pakistan in 2011. In 2014, I joined National University of Computer and Emerging Sciences, Pakistan as an Assistant Professor. In the 2007 - 2011 period, Performed various Software developer contractual jobs both in Pakistan and Australia. I did M.S. (Information Technology) from Swinburne University, Australia in 2010 and B.S. (Computer and Information Sciences) from PIEAS, Pakistan in 2007."
+Hi, I’m M. Taimoor Khan, senior researcher (Big Data Analytics team), Knowledge technologies for social sciences (KTS) dept., at GESIS - Leibniz Institute for the Social Sciences, Germany. I am working on reproducible AI methods for the social science use cases analyzing behavioral data from social media and other digital platforms. I contribute to strategy building, designing, management and development of research project on digital behavioral data analysis and transforming it into a useful service. I develop resources for the service and also build resources to facilitate and encourage community towards accessing, sharing and reusing computationally reproducible methods for social sciences.
+
+My research interests are Natural language processing, Machine learning and adaptability with big evolving data leading to open-world analysis and novelty detection. My Ph.D. (Computer science) thesis title is "Lifelong machine learning topic modeling for large-scale aspect extraction". I have served in academia for over a decade, starting from 2011 and have taught different courses undergrad, grad and postgrad students in the computer science and data science degree programs. I have published in top-tier venues at the intersection of machine learning and natural language processing. I have also contributed to EU TIER2 project as a 3rd party project, collaborating on common standards and integrating complementary services. 
+
+I have been actively involved in organizing conferences, workshops and symposiums and have serves on the review panels of various esteemed computer science conferences and journals.
+
 
 
 Highlights
@@ -22,4 +25,4 @@ Highlights
 - Earned multiple <strong>Higher education grants</strong>, along with institutional scholarships and fee concessions.
 - <a href="https://www.udemy.com/user/muhammad-taimoor-khan/">Online courses</a> on text mining, sentiment analysis and data cleaning, with 2000+ students from 150+ countries.
 - Reviewer at prestigious journals and conferences  
-- <strong>Earned student Researcher of the year</a> during Ph.D. at Bahria University Islamabad, Pakisan, <em>2016</em>
+- <strong>Earned student Researcher of the year</strong> during Ph.D. at Bahria University Islamabad, Pakisan, <em>2016</em>
