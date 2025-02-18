@@ -2,8 +2,8 @@
 title: "A three-way clustering approach for novelty detection"
 collection: publications
 category: manuscripts
-permalink: [/publication/2009-10-01-paper-title-number-1](https://www.sciencedirect.com/science/article/abs/pii/S0020025521004679)
-excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+permalink: "[/publication/2009-10-01-paper-title-number-1](https://www.sciencedirect.com/science/article/abs/pii/S0020025521004679)"
+excerpt: 'The paper introduces three-way decisions using game theory to detection unknown unseen class instances as novelty in the data'
 date: 2021-08
 venue: 'Information Sciences'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
