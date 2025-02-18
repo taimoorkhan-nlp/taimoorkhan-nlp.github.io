@@ -7,7 +7,7 @@ excerpt: 'This paper uses lifelong topic modeling approach (domain incremental l
 date: 2022-3-3
 venue: 'PLOS ONE'
 slidesurl: # 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: # 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0264481'
 citation: 'Khan, M. T., Azam, N., Khalid, S., & Aziz, F. (2022). Hierarchical lifelong topic modeling using rules extracted from network communities. Plos one, 17(3), e0264481.'
 ---
 
