@@ -5,7 +5,7 @@ category: conferences
 permalink: # /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2022-11-21
-venue: '[IDEAL 2022](https://ideal-conf.com/)'
+venue: 'nternational Conference on Intelligent Data Engineering and Automated Learning (IDEAL)'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-21753-1_44'
 citation: 'Saadi, K., & Taimoor Khan, M. (2022, November). Effective prevention of semantic drift in continual deep learning. In International Conference on Intelligent Data Engineering and Automated Learning (pp. 456-464). Cham: Springer International Publishing.'
 ---
