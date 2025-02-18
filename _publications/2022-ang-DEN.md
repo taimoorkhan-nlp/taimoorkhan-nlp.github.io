@@ -3,7 +3,7 @@ title: "Effective Prevention of Semantic Drift in Continual Deep Learning"
 collection: publications
 category: conferences
 permalink: # /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'The paper introduces angular distance to evaluate semantic drift in continual learning that performs better in comparison to the Minkowski distance measures for network parameters.'
 date: 2022-11-21
 venue: 'nternational Conference on Intelligent Data Engineering and Automated Learning (IDEAL)'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-21753-1_44'
