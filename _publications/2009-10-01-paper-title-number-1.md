@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: ""
 excerpt: 'The paper introduces three-way decisions using game theory to detection unknown unseen class instances as novelty in the data'
-date: 2021-08
+date: 2021-08-01
 venue: 'Information Sciences'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
