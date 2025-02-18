@@ -3,7 +3,7 @@ title: "Hierarchical lifelong topic modeling using rules extracted from network 
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper uses lifelong topic modeling approach (domain incremental learning) from a sequence of domains with some overlapping features (product aspects from user reviews). The model maintain a continual knowledge-base as a network of word communities and share it for domain specific topic modeling. The idea is to improve accuracy and minimize on the need for data by sharing knowledge of shared features across domains."
+excerpt: 'This paper uses lifelong topic modeling approach (domain incremental learning) from a sequence of domains with some overlapping features (product aspects from user reviews). The model maintain a continual knowledge-base as a network of word communities and share it for domain specific topic modeling. The idea is to improve accuracy and minimize on the need for data by sharing knowledge of shared features across domains.'
 date: 2022-3-3
 venue: 'PLOS ONE'
 slidesurl: # 'http://academicpages.github.io/files/slides2.pdf'
