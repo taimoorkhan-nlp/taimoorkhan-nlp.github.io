@@ -2,7 +2,7 @@
 title: "A three-way decision approach for dynamically expandable networks"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: [/publication/2015-10-01-paper-title-number-3](https://www.sciencedirect.com/science/article/pii/S0888613X23002360)
 excerpt: 'This paper uses continual learning where it starts from a base CNN architecture and expands incrementally in a class incremental learning setup. Newer class labels along with their training data are introduced sequentially, allowing the model to accommodate new information in order to classify among all seen labels. In the process it expands where three-way decisions comes into play, deciding how much to expand depending on the overlap of the semantic drift expected for learning new labels.'
 date: 2024/3/1
 venue: 'International Journal of Approximate Reasoning'
