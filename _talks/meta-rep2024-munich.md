@@ -1,6 +1,6 @@
 ---
 title: "Reproducibility of AI/ML methods in computational social science"
-collection: talks
+#collection: talks
 type: "Talk"
 permalink: #
 venue: "Meta-Rep 2024"
