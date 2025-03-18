@@ -4,7 +4,7 @@ title: "Reproducibility of AI/ML methods in computational social science"
 type: "Talk"
 permalink: #
 venue: "Meta-Rep 2024"
-date: 2012-03-01
+date: 2024-10-28,29,30,31
 location: "Munich, Germany"
 ---
 
