@@ -17,8 +17,8 @@ I have been actively involved in organizing conferences, workshops and symposium
 
 Highlights
 ======
+- <strong>Technical lead (dept)</strong> contributing to Methods Hub project development <em>2024-08 - present</em>.
 - <strong>Lead developer</strong> in establishing GESIS first in-house Big Data Hadoop infrastructure. Storing, managing and analyzing Digital behavioral data from digital platforms, <em>2022-10 - 2024-06</em>.
-- <strong>Project Lead/Service Manager (dept)</strong>, assisting with reporting, managing and supervision responsibilities (a team of 6 people), <em>2024-08 - present</em>.
 - <strong>Contributed to EU TIER2 project</strong>, representing GESIS as partner institute, <em>2023-06 - 2024-03</em>.
 - <strong>Supervised</strong> more than 20 BS/MS thesis including pre-doctoral, Voluntary Mentorships at <a href="\href{https://airtable.com/shr99BCZFvYUgjCB8/tblEHHtuMGBXHqVc4">FAPFP</a>, <em>2014 - 2024</em>.
 - <strong>Focal person</strong> in MoU with Pashto academy, to provide digital support on low-resourced language tools, <em>2020 - 2022</em>.
