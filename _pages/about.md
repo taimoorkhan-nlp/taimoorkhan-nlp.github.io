@@ -25,4 +25,4 @@ Highlights
 - Earned multiple <strong>Higher education grants</strong>, along with institutional scholarships and fee concessions.
 - <a href="https://www.udemy.com/user/muhammad-taimoor-khan/">Online courses</a> on text mining, sentiment analysis and data cleaning, with 2000+ students from 150+ countries.
 - Reviewer at prestigious journals and conferences  
-- <strong>Earned student Researcher of the year</strong> during Ph.D. at Bahria University Islamabad, Pakisan, <em>2016</em>
+- <strong>Earned student Researcher of the year</strong> during Ph.D. at Bahria University Islamabad, Pakistan, <em>2016</em>
