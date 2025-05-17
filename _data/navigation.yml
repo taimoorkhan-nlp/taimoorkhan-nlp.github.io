@@ -17,8 +17,8 @@ main:
   - title: "organizational"
     url: /organizational/
         
-  - title: "reviews"
-    url: /year-archive/
+  - title: "reviews activities"
+    url: /review-activities/
     
   - title: "CV"
     url: /cv/
