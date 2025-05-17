@@ -222,7 +222,7 @@ collections:
   publications:
     output: false
     permalink: /:collection/:path/
-  portfolio:
+  organizational:
     output: false
     permalink: /:collection/:path/
   talks:
