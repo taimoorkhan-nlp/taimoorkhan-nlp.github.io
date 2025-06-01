@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "M. Taimoor Khan, Ph.D."
 title_separator          : "-"
 name                     : &name "M. Taimoor Khan, Ph.D."
-description              : &description "About
+description              : &description "About me"
 Hi, I’m Taimoor Khan, senior researcher (Big Data Analytics team), Knowledge technologies for social sciences (KTS) dept., GESIS - Leibniz Institute for the Social Sciences (Germany).
 My research interests are at the intersection of machine learning and natural language processing.
 
